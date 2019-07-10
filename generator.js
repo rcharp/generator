@@ -1,4 +1,4 @@
-let wordList = [
+var wordList = [
   "1 <keyword>",
   "2 <keyword>",
   "3 <keyword>",
